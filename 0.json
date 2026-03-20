@@ -4,7 +4,7 @@
       "key": "my_custom_source",
       "name": "我的私人影院",
       "type": 3,
-      "api": "https://api.wsyzy.net/api.php/provide/vod/?ac=list",
+      "api": "https://api.wsyzy.net/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
