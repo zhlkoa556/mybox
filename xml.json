@@ -3,7 +3,7 @@
     {
       "key": "MYBOX",
       "name": "MYBOX",
-      "type": 1,
+      "type": 0,
       "api": "https://api.wsyzy.net/api.php/provide/vod/from/wsym3u8/at/xml/",
       "playUrl": "https://wsyzy.top/m3u8/?url=",
       "searchable": 1,
