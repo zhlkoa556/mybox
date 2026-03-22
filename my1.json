@@ -4,7 +4,7 @@
       "key": "MYBOX",
       "name": "MYBOX",
       "type": 1,
-      "api": "https://api.yzzy-api.com/inc/api_mac10_all.php",
+      "api": "https://api.wsyzy.net/api.php/provide/vod/json",
       "playUrl": "https://vip.zykbf.com/?url= ",
       "searchable": 1,
       "quickSearch": 1,
